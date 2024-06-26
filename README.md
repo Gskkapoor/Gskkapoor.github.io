@@ -1,3 +1,9 @@
-My name is Gurusimran Kaur Kapoor
-I am intrested in Robotics and automation 
+Name - Gurusimran Kaur Kapoor
+
+Age - 16
+
+Intrests - Robotics and automation
+
+Studying in grade 12
+
 
